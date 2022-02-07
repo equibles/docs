@@ -3,6 +3,6 @@
 
 ## Contents
 ### Python
-- [Listen to live quotes using websockets](python/cryptocurrencies-live-quotes.ipynb)
+- [Listen to live cryptocurrency prices using websockets](python/cryptocurrencies-live-quotes.ipynb)
 
 
